@@ -1,0 +1,228 @@
+[
+    {
+        "topic": "Infrastructure",
+        "items": [
+            {
+                "title": "INFRA-DOCKER - Source control repo for Docker daemon configuration",
+                "url": "https://github.com/NCH-BPC-Informatics/infra-docker"
+            },
+            {
+                "title": "INFRA-DOCKER-AUTOSSH - Docker container definition for AutoSSH client with SOCKS server enabled",
+                "url": "https://github.com/NCH-BPC-Informatics/infra-docker-autossh"
+            },
+            {
+                "title": "INFRA-DOCKER-PENTAHO - Docker container definition for Pentaho ETL runtime",
+                "url": "https://github.com/NCH-BPC-Informatics/infra-docker-pentaho"
+            },
+            {
+                "title": "INFRA-GRAYLOG - Graylog configuration",
+                "url": "https://github.com/NCH-BPC-Informatics/infra-graylog"
+            },
+            {
+                "title": "INFRA-PENTAHO-ETL - Source control repo for Pentaho ETL workflows",
+                "url": "https://github.com/NCH-BPC-Informatics/infra-pentaho-etl"
+            },
+            {
+                "title": "INFRA-SOCKS-SERVER-5 - Docker container definition for SOCKS server",
+                "url": "https://github.com/NCH-BPC-Informatics/infra-socks-server-5"
+            },
+            {
+                "title": "INFRA-ULTRAHOOK - Support tunneling of external webhooks to BPCI apps/servers",
+                "url": "https://github.com/NCH-BPC-Informatics/infra-ultrahook"
+            },
+            {
+                "title": "PROJECT-INFRASTRUCTURE - :european_castle: Issue management repo for the BPCI's infrastructure needs and efforts",
+                "url": "https://github.com/NCH-BPC-Informatics/project-infrastructure"
+            }
+        ]
+    },
+    {
+        "topic": "Journals",
+        "items": [
+            {
+                "title": "JOURNAL-KRAMER - Personal repo for journal/wiki for Eric Kramer",
+                "url": "https://github.com/NCH-BPC-Informatics/journal-kramer"
+            },
+            {
+                "title": "JOURNAL-PLUMLEY - Personal repo for journal/wiki for Mike Plumley",
+                "url": "https://github.com/NCH-BPC-Informatics/journal-plumley"
+            }
+        ]
+    },
+    {
+        "topic": "Projects",
+        "items": [
+            {
+                "title": "PROJECT-BOXER - Boxer is a tool for making a rapid inventory of specimens.",
+                "url": "https://github.com/NCH-BPC-Informatics/project-boxer"
+            },
+            {
+                "title": "PROJECT-CHTNIS-ETL - Source control repo for the CHTNIS ETL",
+                "url": "https://github.com/NCH-BPC-Informatics/project-chtnis-etl"
+            },
+            {
+                "title": "PROJECT-COG-BIE - ReportServer instance to support the COG Biospecimen Inventory Explorer.",
+                "url": "https://github.com/NCH-BPC-Informatics/project-cog-bie"
+            },
+            {
+                "title": "PROJECT-COGHDD-PORTAL - Issue management and source control repo for the COG HDD application",
+                "url": "https://github.com/NCH-BPC-Informatics/project-coghdd-portal"
+            },
+            {
+                "title": "PROJECT-ETL - :minibus: Issue management repo for the BPCI's ETL efforts",
+                "url": "https://github.com/NCH-BPC-Informatics/project-etl"
+            },
+            {
+                "title": "PROJECT-KIT-MANAGEMENT - :radio: Issue management and source control repo for the BPC Kit Management application",
+                "url": "https://github.com/NCH-BPC-Informatics/project-kit-management"
+            },
+            {
+                "title": "PROJECT-PHYSICAL-INVENTORY - :tada: Issue Management and Documentation repo for activities related to the BPC Physical Inventory effort",
+                "url": "https://github.com/NCH-BPC-Informatics/project-physical-inventory"
+            },
+            {
+                "title": "PROJECT-REPORTING - Issue management repo for the BPCI's Reporting and Analytics efforts",
+                "url": "https://github.com/NCH-BPC-Informatics/project-reporting"
+            },
+            {
+                "title": "PROJECT-STARS - STARS - Specimen Tracking and Reporting System",
+                "url": "https://github.com/NCH-BPC-Informatics/project-stars"
+            },
+            {
+                "title": "PROJECT-VIPER - Issue management and source control repo for the BPC Viper application",
+                "url": "https://github.com/NCH-BPC-Informatics/project-viper"
+            }
+        ]
+    },
+    {
+        "topic": "Sandboxes",
+        "items": [
+            {
+                "title": "SANDBOX-PLUMLEY - Spikes, ideas and clarification! Oh my!",
+                "url": "https://github.com/NCH-BPC-Informatics/sandbox-plumley"
+            },
+            {
+                "title": "SANDBOX-RAILS-EMBER-1 - A sandbox project for experimentation in Rails, EmberJS",
+                "url": "https://github.com/NCH-BPC-Informatics/sandbox-rails-ember-1"
+            }
+        ]
+    },
+    {
+        "topic": "Spikes",
+        "items": [
+            {
+                "title": "SPIKE-ASPNET-TEMPLATE - Sample .NETCore project using RazorLight engine",
+                "url": "https://github.com/NCH-BPC-Informatics/spike-aspnet-template"
+            },
+            {
+                "title": "SPIKE-HGMD-DB - null",
+                "url": "https://github.com/NCH-BPC-Informatics/spike-hgmd-db"
+            },
+            {
+                "title": "SPIKE-HGMD-WEB - null",
+                "url": "https://github.com/NCH-BPC-Informatics/spike-hgmd-web"
+            },
+            {
+                "title": "SPIKE-RUNDECK-ETL - Repository for Rundeck job configuration for the ETL project",
+                "url": "https://github.com/NCH-BPC-Informatics/spike-rundeck-etl"
+            },
+            {
+                "title": "SPIKE-VAADIN-LDAP-BOOT - A tiny example of authenticating a user against Active Directory using Vaadin and Spring Boot.",
+                "url": "https://github.com/NCH-BPC-Informatics/spike-vaadin-ldap-boot"
+            },
+            {
+                "title": "SPIKE-VAADIN-RECAPTCHA - Demo that integrates ReCaptcha into a Vaadin app",
+                "url": "https://github.com/NCH-BPC-Informatics/spike-vaadin-recaptcha"
+            },
+            {
+                "title": "SPIKES - Issue Management repo and wiki for activities related to the BPCI tech spikes",
+                "url": "https://github.com/NCH-BPC-Informatics/spikes"
+            }
+        ]
+    },
+    {
+        "topic": "Other",
+        "items": [
+            {
+                "title": "ANGULAR-SDK - An address book app for AngularJS showing user registration, user login, and CRUD",
+                "url": "https://github.com/NCH-BPC-Informatics/angular-sdk"
+            },
+            {
+                "title": "BPC-REPORTSERVER - Reports and scripts for the BPC ReportServer instance",
+                "url": "https://github.com/NCH-BPC-Informatics/bpc-reportserver"
+            },
+            {
+                "title": "BPI - Issue Management repo and wiki for activities related to BPC Business Process Improvement (BPI)",
+                "url": "https://github.com/NCH-BPC-Informatics/bpi"
+            },
+            {
+                "title": "DOCKER-FLYWAY - null",
+                "url": "https://github.com/NCH-BPC-Informatics/docker-flyway"
+            },
+            {
+                "title": "DOCKER-FLYWAY-1 - Flyway on alpine",
+                "url": "https://github.com/NCH-BPC-Informatics/docker-flyway-1"
+            },
+            {
+                "title": "GENERATOR-CAMEL - Apache Camel + Spring Boot + Docker + Release plugin Yeoman Generator",
+                "url": "https://github.com/NCH-BPC-Informatics/generator-camel"
+            },
+            {
+                "title": "HHOW-DATAVIS-PROTOTYPE - HHOW Data Visualization Prototype / Playground",
+                "url": "https://github.com/NCH-BPC-Informatics/hhow-datavis-prototype"
+            },
+            {
+                "title": "JDBC-SQL-REST - A primitive REST Api wrapper for SQL calls to a JDBC compliant database",
+                "url": "https://github.com/NCH-BPC-Informatics/jdbc-sql-rest"
+            },
+            {
+                "title": "JMETER - A repository of various JMeter scripts and components",
+                "url": "https://github.com/NCH-BPC-Informatics/jmeter"
+            },
+            {
+                "title": "JSON-DATA-SERVICE - A Java-based web service app for interacting with JDBC via HTTP/JSON",
+                "url": "https://github.com/NCH-BPC-Informatics/json-data-service"
+            },
+            {
+                "title": "LEARNING-VAADIN-7 - Tutorial code that accompanies the Learning Vaadin 7 book",
+                "url": "https://github.com/NCH-BPC-Informatics/learning-vaadin-7"
+            },
+            {
+                "title": "PEDMATCH-ARCH-DOCS - Architectural documentation for the NCH portion of the PedMATCH initiative",
+                "url": "https://github.com/NCH-BPC-Informatics/pedmatch-arch-docs"
+            },
+            {
+                "title": "PEDMATCH-STARS-POLLER - Issue management and source control repo for the STARS PedMATCH poller",
+                "url": "https://github.com/NCH-BPC-Informatics/pedmatch-stars-poller"
+            },
+            {
+                "title": "PENTAHOETL - Pentaho ETL repository",
+                "url": "https://github.com/NCH-BPC-Informatics/PentahoETL"
+            },
+            {
+                "title": "REPORT-MANAGER - Git version of the Report Manager solution",
+                "url": "https://github.com/NCH-BPC-Informatics/Report-Manager"
+            },
+            {
+                "title": "RUNDECK-CONFIG-EK-SANDBOX - null",
+                "url": "https://github.com/NCH-BPC-Informatics/rundeck-config-ek-sandbox"
+            },
+            {
+                "title": "SQLREST - REST Style Web Service Enabler for RDBMS",
+                "url": "https://github.com/NCH-BPC-Informatics/sqlrest"
+            },
+            {
+                "title": "STARS-NG-LOGVIEWER - AngularJS-based STARS log viewer",
+                "url": "https://github.com/NCH-BPC-Informatics/stars-ng-logviewer"
+            },
+            {
+                "title": "STARS2-MOCKUPS - Various static mockups of STARS2 pages and UI elements",
+                "url": "https://github.com/NCH-BPC-Informatics/stars2-mockups"
+            },
+            {
+                "title": "TEAM - BPCI Team Repository",
+                "url": "https://github.com/NCH-BPC-Informatics/team"
+            }
+        ]
+    }
+]
